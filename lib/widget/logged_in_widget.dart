@@ -1,11 +1,8 @@
 import 'package:email_signin_example/page/editprofile.dart';
 import 'package:email_signin_example/page/qrscreen.dart';
-import 'package:email_signin_example/provider/google_sign_in.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class LoggedInWidget extends StatefulWidget {

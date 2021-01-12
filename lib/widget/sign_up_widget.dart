@@ -1,7 +1,4 @@
 import 'package:email_signin_example/page/auth_page.dart';
-import 'package:email_signin_example/widget/background_painter.dart';
-import 'package:email_signin_example/widget/google_signup_button_widget.dart';
-import 'package:email_signin_example/widget/fb_btn_widget.dart';
 import 'package:flutter/material.dart';
 
 

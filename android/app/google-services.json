@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028667739329",
+    "firebase_url": "https://connect360-bf2bb.firebaseio.com",
+    "project_id": "connect360-bf2bb",
+    "storage_bucket": "connect360-bf2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028667739329:android:8d0526cf9610ac86729840",
+        "android_client_info": {
+          "package_name": "com.connect.connect360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028667739329-h5tmcavkkdhonltu53m5874el74bt1d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpGGbFmub7002aQDaC7-5XfTEd8nYdQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028667739329-h5tmcavkkdhonltu53m5874el74bt1d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

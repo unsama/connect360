@@ -1,0 +1,50 @@
+name: email_signin_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  adobe_xd: ^1.0.0+1
+  cupertino_icons: ^1.0.0
+  url_launcher: ^5.4.2
+  firebase_storage: ^4.0.1
+  firebase_database: ^4.3.0
+  image_picker: ^0.6.7+14
+  cloud_firestore: ^0.14.3
+  qr_flutter: ^3.1.0
+  rflutter_alert: ^1.1.0
+  circular_profile_avatar: ^1.0.6
+  flutter_form_builder: 3.8.0+1
+  flat_icons_flutter: ^1.0.2
+  change_app_package_name: ^0.1.2
+  flutter_facebook_login: ^1.1.1
+  
+
+  # google & email signin
+  firebase_auth: ^0.18.3
+
+  # google sign in
+  google_sign_in: ^4.5.6
+
+  # state management
+  provider: ^4.3.2+2
+
+  # logo of google
+  font_awesome_flutter: ^8.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.4
+
+flutter_icons:
+  image_path: "assets/images/logomain.png"
+  android: true
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true
